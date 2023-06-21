@@ -15,7 +15,7 @@ const Main = () => {
       <div className='w-full h-screen absolute top-0 left-0'>
         
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-                <p className="text-2xl font-po text-[#00dbfe]">Hi, my name is</p>
+                <p className="text-2xl font-po text-[#00dbfe]">Hi, I'm</p>
                 <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f5]">SACHINI KANDAMBIGE</h1>
                 <h2 className="font- text-2xl sm:text-5xl font-bold text-[#888fa4]">
                 <TypeAnimation
