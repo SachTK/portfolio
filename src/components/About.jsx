@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSpring, animated } from 'react-spring';
 import Logo from "../assets/mypic.jpg";
-import CV from "../assets/cv.pdf";
+import CV from "../assets/SachiniKandambige.pdf";
 
 const About = () => {
   const imageAnimation = useSpring({
