@@ -39,7 +39,7 @@ const Main = () => {
                       <a href="https://www.linkedin.com/in/sachini-kandambige/" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin className='cursor-pointer mr-6' size={60} color='white' />
                       </a>
-                      <a href="https://github.com/IT21181856" target="_blank" rel="noopener noreferrer">
+                      <a href="https://github.com/SachTK" target="_blank" rel="noopener noreferrer">
                         <FaGithub className='cursor-pointer mr-6' size={60} color='white' />
                       </a>
                       <a href="https://web.facebook.com/profile.php?id=100055735599274" target="_blank" rel="noopener noreferrer">
